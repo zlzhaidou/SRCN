@@ -1,0 +1,112 @@
+
+	Ivy: {
+		DisplayName: 常青藤
+		Tooltip: 一种常见但有着多种用途的草药
+	}
+
+	IvySeeds: {
+		DisplayName: 常青藤种子
+		Tooltip: 可以种植在吊挂盆中
+	}
+
+
+
+	CutlassBus: {
+		DisplayName: 弯刀之魂
+		Tooltip:
+			'''
+			egshels更新了这个，哈哈哈
+			嗨，是我，我是egshels，我不会再更新这个了，哈哈哈，它是调试物品
+			'''
+	}
+
+
+
+	VitricBossBarrierItem: {
+		DisplayName: VitricBossBarrierItem
+		Tooltip: 调试物品
+	}
+
+	GlassweaverBossBarrierItem: {
+		DisplayName: GlassweaverBossBarrierItem
+		Tooltip: 调试物品
+	}
+
+
+
+	CoolmiteLargeItem: {
+		DisplayName: Coolmismer
+		Tooltip: High intensity beauty! Avoid eye and skin exposure.
+	}
+
+	CoolmiteSmolItem: {
+		DisplayName: Coolmini
+		Tooltip: Sharp edges! Watch your fingers.
+	}
+
+	MagmiteLargeItem: {
+		DisplayName: Magmite
+		Tooltip: Admire him!
+	}
+
+	MagmiteSmolItem: {
+		DisplayName: Magmini
+		Tooltip: Nurture him!
+	}
+
+	CoolmitePassiveItem: {
+		Tooltip: Fragile! Please handle with care.
+		DisplayName: Coolmite
+	}
+	
+			SaltCogs: {
+				DisplayName: Salt Cogs
+				Tooltip:
+					'''
+					你的哨兵在被放置后的两秒内会以两倍速度攻击
+					增加100%哨兵放置速度
+					'''
+			}
+
+			ArtilleryLicense: {
+				DisplayName: Artillery License
+				Tooltip:
+					'''
+					增加1格最大哨兵栏位
+					`Totally not forged`
+					'''
+			}
+
+			DefenseSystem: {
+				DisplayName: Arms Dealer's Defense System
+				Tooltip:
+					'''
+					召唤一架携带枪械的炮塔
+					右键在不同的枪械之间循环切换
+					[i/s1:95] Modest damage with good range
+					[i/s1:964] Great damage with short range
+					[i/s1:98] Light damage with great fire rate
+
+					'''
+			}
+	Glassweaver.DisplayName: 织璃匠
+	GlassweaverWaiting.DisplayName: 织璃匠
+
+	GUI: {
+	BossRush: {
+		Retry: 重试？
+		Quit: 放弃？
+		DeathScore: 最终分数：
+		Button: 天浑试炼
+		NormalName: Boss 连战
+		ExpertName: Boss 闪击
+		MasterName: 星光对决
+		NormalRules: " - 按顺序同所有星光之河的 Boss 战斗！ NEWBLOCK - 普通难度 NEWBLOCK - 切换 Boss 时回复所有生命"
+		ExpertRules: " - 按顺序同所有星光之河的 Boss 战斗！ NEWBLOCK - 专家难度 NEWBLOCK - 切换 Boss 时回复200点生命 NEWBLOCK - 游戏以1.25倍速运行 NEWBLOCK - 2倍得分"
+		MasterRules: " - 理论可行！ NEWBLOCK - 大师难度 NEWBLOCK - 切换 Boss 时不回复生命 NEWBLOCK - 游戏以1.5倍速运行 NEWBLOCK - 禁用治疗药水 NEWBLOCK - 禁用传送 NEWBLOCK - 3倍得分"
+	}
+}
+	DesertWisp.DisplayName: 沙漠飘烟
+	FaeflamePickup.DisplayName: 妖精火焰
+	ForbiddenWindsPickup.DisplayName: 禁忌之风
+	InfusionSlotPickup.DisplayName: Unnerving Device

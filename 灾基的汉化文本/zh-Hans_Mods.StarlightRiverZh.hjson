@@ -1,0 +1,41 @@
+Notifications: {
+	Welcome:
+		'''
+		欢迎使用由星光之舟汉化组制作的星光之河汉化补丁。
+		如果遇到 Bug，可以尝试在模组配置中关闭实验性功能。
+		'''
+	Info:
+		'''
+		- 模组：星光之河汉化补丁
+		- 版本：{0}
+		- 目标模组：星光之河（Starlight River）
+		- 开发者: 星光之舟团队
+		如遇 Bug，尝试禁用与星光之河无关的模组或本模组的实验性功能。
+		如要反馈，在 Steam 创意工坊留下你的评论，加入我们的 QQ 群：1170263379 或 Discord：discord.gg/99Rg4qS9hb
+		'''
+	InfoHint: 使用聊天栏指令“/slrzh”以查看更多信息。
+	Changelog:
+		'''
+		v{0} 更新日志
+		{1}
+		'''
+	NoChangelog: v{0} 未检测到更新日志
+	InvalidOption: 检测到无效选项
+}
+
+Configs: {
+	SlrzhConfig: {
+		DisplayName: 模组配置
+		ILTranslateHeader: 【实验性】 内嵌翻译
+
+		ILTranslate: {
+			Label: 翻译更多文本
+			Tooltip:
+				'''
+				测试功能，开发中，可能造成不可预知的 bug。
+				完全【不支持】 多人模式。
+				关闭 mod 后【无法】 将文本恢复为英文。
+				'''
+		}
+	}
+}

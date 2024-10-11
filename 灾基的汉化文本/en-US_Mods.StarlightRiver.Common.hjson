@@ -1,0 +1,160 @@
+MasterWarning:
+	'''
+	星光之河的Boss大师模式下的Boss具有独特的行为。
+	Boss战将会极度困难，且假定玩家对该模组和游戏都有很深的理解。
+	星光之河大师模式并不适合首次游玩。
+	星光之河大师模式并不追求平衡。
+	星光之河大师模式并不会让所有人开心。
+	请记住，你和周围人的身心健康比游戏或其中的任何内容都更重要。
+	'''
+
+Starsight: {
+	#NPC
+	ForbiddenWindsPickup: A dense conflux of Starlight energy... could this be the tangle Alican mentioned?
+	Coolmite: Even cuter in crystal!
+	MagmitePassive: Cute!
+	Crow: What does he want with me?
+	Snoobel: Extremely ugly. so Fucking ugly.
+	Crusher: Watch your step.
+	Dreambeast: It's not real. It's not real. It's not real. IT'S NOT REAL. IT'S NOT REAL. IT'S NOT REAL.
+	Fogbinder: Disrupted with prolonged contact...
+	Warbanner: It somehow bolsters nearby foes...
+	CrescentCaster: It somehow shields nearby foes...
+	Dweller: There's something here.
+	Stalker: Theres... nothing there. An illusion.
+	BossRushOrb: I SEE YOU.
+	VitricBoss: Glassweaver mentioned a 'Sentinel'... Focus!
+	SquidBoss: Vulnerable only when its shielding tentacles are destroyed...
+	TentacleHurtbox: Its protecting the main body!
+	Glassweaver: Now he's getting serious.
+	GlassweaverWaiting: Is this... creature... really what 'lurks beneath the desert?'
+	#Projectile
+	MainForgeDummy: An ancient forge, powered by concentrated light...
+	DynamicGearDummy: A magical gear that can change its shape...
+	JellyShroomDummy: This mushroom is different. And bouncy.
+	#Tile
+	VitricBossAltar: An altar, encased in crystal rich with binding Starlight. You'd have to use a Starlight power of equal strength...
+	VitricBossAltar2: An altar awaiting an offering...
+	VitricOre: A crystal, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+	VitricOreFloat: A crystal, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+	VitricSpike: Dangerous.
+	NPCSpawner: Dangerous.
+	Lens: Sandstone blocks the lens, but these relics should be a good way to redirect the light...
+	LightGoal: Maybe if a light were pointed at this crystal...
+	Reflector: Sandstone blocks the lens, but these relics should be a good way to redirect the light...
+	CombatShrine: A shrine - to which deity, you do not know, though it wields a blade. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+	EvasionShrine: A shrine - to which deity, you do not know, though it wields a bow. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+	HotspringFountain: The waters around this spring calm your mind, heal your body, and soothe your soul. A brief reprieve, if only for a moment.
+	MagmiteShrine: A shrine - obviously, to Their Greatness the Magmite. The lil goober's eyes seem to follow you, and heart-shaped runes dance across its pedestal.
+	WitShrine: A shrine - to which deity, you do not know, though it holds a book. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+	DashBarrier: A barrier, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+	AuroraIce: It fades away when you look at it...
+	Touchstone: Full of Starlight, seemingly with a mind of its own...
+	MoonstoneOre: This ore is full of Starlight, but... wrong. Twisted.
+	DisplayCase: The contents are shiny... but the glass is infused with starlight. A starlight power of equal strength may shatter it...
+	DisplayCaseFriendly: The contents are shiny... but the glass is infused with starlight. A starlight power of equal strength may shatter it...
+	Bouncer: A reactive crystal. It... kinetically interacts with Starlight.
+	StaminaGem: A reactive crystal. Releases energy after contact with Starlight.
+	MonkSpear: The air here is still, yet the ribbon rides an unseen breeze...
+	DesertMonolith: These towering monoliths withstood the test of time...
+	DesertMonolithFlipped: These towering monoliths withstood the test of time...
+	CrashPod: A fallen droppod, made of metal rich in binding Starlight. You'd have to use a Starlight power of equal strength...
+	#Misc
+	Nothing: Nothing interesting here...
+}
+
+MasterDeathText: {
+	0: Maybe try Journey Mode...
+	1: You're not supposed to win.
+	2: Whoopsie daisy.
+	3: It's not THAT hard.
+	4: Give up.
+	5: Have you tried dodging?
+	6: skill issue
+	7: Are the logged hours on your Steam account accurate?
+	8: You sure you wanna do this?
+	9: There are easier difficulties you know.
+	10: You can install Dragonlens from the mod browser.
+	11: You can always come back after beating other bosses.
+	12: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+	13: Just so you know, Starlight River does not have a pacifist route. Consider changing your playstyle.
+	14: Press {0} to jump.
+	15: You died so many times you broke our snarky quote code. Great job.
+}
+
+#不要翻译这个
+EN: {
+	Starsight: {
+		#NPC
+		ForbiddenWindsPickup: A dense conflux of Starlight energy... could this be the tangle Alican mentioned?
+		Coolmite: Even cuter in crystal!
+		MagmitePassive: Cute!
+		Crow: What does he want with me?
+		Snoobel: Extremely ugly. so Fucking ugly.
+		Crusher: Watch your step.
+		Dreambeast: It's not real. It's not real. It's not real. IT'S NOT REAL. IT'S NOT REAL. IT'S NOT REAL.
+		Fogbinder: Disrupted with prolonged contact...
+		Warbanner: It somehow bolsters nearby foes...
+		CrescentCaster: It somehow shields nearby foes...
+		Dweller: There's something here.
+		Stalker: Theres... nothing there. An illusion.
+		BossRushOrb: I SEE YOU.
+		VitricBoss: Glassweaver mentioned a 'Sentinel'... Focus!
+		SquidBoss: Vulnerable only when its shielding tentacles are destroyed...
+		TentacleHurtbox: Its protecting the main body!
+		Glassweaver: Now he's getting serious.
+		GlassweaverWaiting: Is this... creature... really what 'lurks beneath the desert?'
+		#Projectile
+		MainForgeDummy: An ancient forge, powered by concentrated light...
+		DynamicGearDummy: A magical gear that can change its shape...
+		JellyShroomDummy: This mushroom is different. And bouncy.
+		#Tile
+		VitricBossAltar: An altar, encased in crystal rich with binding Starlight. You'd have to use a Starlight power of equal strength...
+		VitricBossAltar2: An altar awaiting an offering...
+		VitricOre: A crystal, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+		VitricOreFloat: A crystal, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+		VitricSpike: Dangerous.
+		NPCSpawner: Dangerous.
+		Lens: Sandstone blocks the lens, but these relics should be a good way to redirect the light...
+		LightGoal: Maybe if a light were pointed at this crystal...
+		Reflector: Sandstone blocks the lens, but these relics should be a good way to redirect the light...
+		CombatShrine: A shrine - to which deity, you do not know, though it wields a blade. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+		EvasionShrine: A shrine - to which deity, you do not know, though it wields a bow. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+		HotspringFountain: The waters around this spring calm your mind, heal your body, and soothe your soul. A brief reprieve, if only for a moment.
+		MagmiteShrine: A shrine - obviously, to Their Greatness the Magmite. The lil goober's eyes seem to follow you, and heart-shaped runes dance across its pedestal.
+		WitShrine: A shrine - to which deity, you do not know, though it holds a book. The statue's eyes seem to follow you, and strange runes dance across its pedestal.
+		DashBarrier: A barrier, infused with binding Starlight. You'd have to use a Starlight power of equal strength...
+		AuroraIce: It fades away when you look at it...
+		Touchstone: Full of Starlight, seemingly with a mind of its own...
+		MoonstoneOre: This ore is full of Starlight, but... wrong. Twisted.
+		DisplayCase: The contents are shiny... but the glass is infused with starlight. A starlight power of equal strength may shatter it...
+		DisplayCaseFriendly: The contents are shiny... but the glass is infused with starlight. A starlight power of equal strength may shatter it...
+		Bouncer: A reactive crystal. It... kinetically interacts with Starlight.
+		StaminaGem: A reactive crystal. Releases energy after contact with Starlight.
+		MonkSpear: The air here is still, yet the ribbon rides an unseen breeze...
+		DesertMonolith: These towering monoliths withstood the test of time...
+		DesertMonolithFlipped: These towering monoliths withstood the test of time...
+		CrashPod: A fallen droppod, made of metal rich in binding Starlight. You'd have to use a Starlight power of equal strength...
+		#Misc
+		Nothing: Nothing interesting here...
+	}
+
+	MasterDeathText: {
+		0: Maybe try Journey Mode...
+		1: You're not supposed to win.
+		2: Whoopsie daisy.
+		3: It's not THAT hard.
+		4: Give up.
+		5: Have you tried dodging?
+		6: skill issue
+		7: Are the logged hours on your Steam account accurate?
+		8: You sure you wanna do this?
+		9: There are easier difficulties you know.
+		10: You can install Dragonlens from the mod browser.
+		11: You can always come back after beating other bosses.
+		12: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+		13: Just so you know, Starlight River does not have a pacifist route. Consider changing your playstyle.
+		14: Press {0} to jump.
+		15: You died so many times you broke our snarky quote code. Great job.
+	}
+}

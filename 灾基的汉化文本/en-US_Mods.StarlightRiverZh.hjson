@@ -1,0 +1,42 @@
+Notifications: {
+	Welcome:
+		'''
+		Starlight River Chinese Patch, brought to you by the Starlight Boat. Translation is working in progress, thanks for your patience and understanding.
+		The game language is not set to Chinese!
+		If there is a bug, try disabling experimental features in mod config.
+		'''
+	Info:
+		'''
+		- mod: Starlight River Chinese Patch
+		- version: {0}
+		- target mod: Starlight River
+		- developer: Team Starlight Boat
+		For bugs, try turning off non-Starlight-River mods, this mod's experimental features or itself.
+		For feedback, leave a comment in Steam workshop or join our Discord: discord.gg/99Rg4qS9hb
+		'''
+	InfoHint: For more info, use chat command '/slrzh'.
+	Changelog:
+		'''
+		v{0} changelog
+		{1}
+		'''
+	NoChangelog: v{0} no changelog detected
+	InvalidOption: Invalid option detected
+}
+
+Configs: {
+	SlrzhConfig: {
+		DisplayName: Starlight River Chinese Patch
+		ILTranslateHeader: "[Experimental] IL Translation"
+
+		ILTranslate: {
+			Label: Translates more texts
+			Tooltip:
+				'''
+				Experimental feature, under development, might be bugged.
+				Does NOT support multiplayer.
+				Texts do not restore to defaults even with this mod disabled.
+				'''
+		}
+	}
+}
