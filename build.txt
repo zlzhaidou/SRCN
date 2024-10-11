@@ -1,0 +1,8 @@
+displayName = 星光之河个人汉补丁
+author = 虞悖
+version = 0.1
+translationMod = true
+side = Client
+hideResources = true
+hideCode = true
+modReferences = StarlightRiver
